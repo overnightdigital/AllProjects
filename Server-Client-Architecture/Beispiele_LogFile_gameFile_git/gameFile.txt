@@ -1,0 +1,55 @@
+
+Player 1 : 
+ - PlayerID : 1 | GamesPLayed : 11 | GamesWon : 0 | NoOfGamesPlayerMadeErrors : 0 | Raiting : -1-
+
+Player 2 : 
+ - PlayerID : 29 | GamesPLayed : 1 | GamesWon : 0 | NoOfGamesPlayerMadeErrors : 0 | Raiting : -1-
+
+Game protocol : 
+
+ - MoveID : 1 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : -99 Position Y : -99  | Direction : N | Discovery : ? | PlayerID : 29-
+
+ - MoveID : 2 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 2 Position Y : 5  | Direction : N | Discovery : ? | PlayerID : 1-
+
+ - MoveID : 4 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 6 Position Y : 4  | Direction : N | Discovery : ? | PlayerID : 29-
+
+ - MoveID : 6 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 2 Position Y : 6  | Direction : N | Discovery : ? | PlayerID : 1-
+
+ - MoveID : 8 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 6 Position Y : 5  | Direction : N | Discovery : ? | PlayerID : 29-
+
+ - MoveID : 10 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 2 Position Y : 7  | Direction : N | Discovery : ? | PlayerID : 1-
+
+ - MoveID : 12 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 6 Position Y : 6  | Direction : N | Discovery : ? | PlayerID : 29-
+
+ - MoveID : 14 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 2 Position Y : 0  | Direction : N | Discovery : ? | PlayerID : 1-
+
+ - MoveID : 16 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 6 Position Y : 7  | Direction : N | Discovery : ? | PlayerID : 29-
+
+ - MoveID : 18 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 2 Position Y : 1  | Direction : N | Discovery : ? | PlayerID : 1-
+
+ - MoveID : 20 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 6 Position Y : 0  | Direction : N | Discovery : ? | PlayerID : 29-
+
+ - MoveID : 22 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 2 Position Y : 2  | Direction : N | Discovery : ? | PlayerID : 1-
+
+ - MoveID : 24 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 6 Position Y : 1  | Direction : N | Discovery : ? | PlayerID : 29-
+
+ - MoveID : 26 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 2 Position Y : 3  | Direction : N | Discovery : ? | PlayerID : 1-
+
+ - MoveID : 28 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 6 Position Y : 2  | Direction : N | Discovery : ? | PlayerID : 29-
+
+ - MoveID : 30 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 2 Position Y : 4  | Direction : N | Discovery : ? | PlayerID : 1-
+
+ - MoveID : 32 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 6 Position Y : 3  | Direction : N | Discovery : ? | PlayerID : 29-
+
+ - MoveID : 34 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 2 Position Y : 5  | Direction : N | Discovery : ? | PlayerID : 1-
+
+ - MoveID : 36 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 6 Position Y : 4  | Direction : N | Discovery : ? | PlayerID : 29-
+
+ - MoveID : 38 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 2 Position Y : 6  | Direction : N | Discovery : ? | PlayerID : 1-
+
+ - MoveID : 40 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 6 Position Y : 5  | Direction : N | Discovery : ? | PlayerID : 29-
+
+ - MoveID : 42 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 2 Position Y : 7  | Direction : N | Discovery : ? | PlayerID : 1-
+
+ - MoveID : 44 | StartPos : Position X : 0 Position Y : 0  | EndPos : 00 | MovePlayed : Position X : 6 Position Y : 6  | Direction : N | Discovery : ? | PlayerID : 29-
+

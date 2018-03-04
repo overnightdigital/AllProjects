@@ -1,0 +1,484 @@
+Dec 07, 2017 7:59:34 PM Server runServer
+INFO: Server is Ready and waiting for connection ...
+Dec 07, 2017 8:00:05 PM Server runServer
+INFO: Server is accepting connection ...
+Dec 07, 2017 8:00:05 PM Server runServer
+INFO: Thread started
+Dec 07, 2017 8:00:05 PM Server runServer
+INFO: Server is Ready and waiting for connection ...
+Dec 07, 2017 8:00:06 PM ServerThread run
+INFO: Checking Map ...
+Dec 07, 2017 8:00:06 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:00:06 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:06 PM Server updateBoard
+INFO: PlayerOneOnline
+Dec 07, 2017 8:00:06 PM Server isPlayerTurnAndChangePlayer
+INFO: player requested to play but could not
+Dec 07, 2017 8:00:06 PM ServerThread run
+INFO: Player Tried To Play But Not His Turn : 29
+Dec 07, 2017 8:00:39 PM Server runServer
+INFO: Server is accepting connection ...
+Dec 07, 2017 8:00:39 PM Server runServer
+INFO: Thread started
+Dec 07, 2017 8:00:39 PM Server runServer
+INFO: Server is Ready and waiting for connection ...
+Dec 07, 2017 8:00:40 PM ServerThread run
+INFO: Checking Map ...
+Dec 07, 2017 8:00:41 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:00:41 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:41 PM Server updateBoard
+INFO: PlayerTwoOnline
+Dec 07, 2017 8:00:41 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:42 PM Server isPlayerTurnAndChangePlayer
+INFO: player requested to play but could not
+Dec 07, 2017 8:00:42 PM ServerThread run
+INFO: Player Tried To Play But Not His Turn : 2
+Dec 07, 2017 8:00:42 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:00:42 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:42 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:42 PM ServerThread run
+INFO:  Player Request To Move And Approved :  29
+Dec 07, 2017 8:00:42 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:42 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:42 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:00:42 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:00:42 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:42 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:42 PM ServerThread run
+INFO:  Player Request To Move And Approved :  2
+Dec 07, 2017 8:00:42 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:42 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:42 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:00:43 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:00:43 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:43 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:43 PM ServerThread run
+INFO:  Player Request To Move And Approved :  29
+Dec 07, 2017 8:00:43 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:43 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:43 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:00:44 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:00:44 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:44 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:44 PM ServerThread run
+INFO:  Player Request To Move And Approved :  2
+Dec 07, 2017 8:00:44 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:44 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:44 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:00:47 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:00:47 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:47 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:47 PM ServerThread run
+INFO:  Player Request To Move And Approved :  29
+Dec 07, 2017 8:00:47 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:47 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:47 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:00:48 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:00:48 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:48 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:48 PM ServerThread run
+INFO:  Player Request To Move And Approved :  2
+Dec 07, 2017 8:00:48 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:48 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:48 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:00:48 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:00:48 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:48 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:48 PM ServerThread run
+INFO:  Player Request To Move And Approved :  29
+Dec 07, 2017 8:00:48 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:48 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:48 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:00:49 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:00:49 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:49 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:49 PM ServerThread run
+INFO:  Player Request To Move And Approved :  2
+Dec 07, 2017 8:00:49 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:49 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:49 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:00:52 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:00:52 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:52 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:52 PM ServerThread run
+INFO:  Player Request To Move And Approved :  29
+Dec 07, 2017 8:00:52 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:52 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:52 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:00:53 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:00:53 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:53 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:53 PM ServerThread run
+INFO:  Player Request To Move And Approved :  2
+Dec 07, 2017 8:00:53 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:53 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:53 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:00:53 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:00:53 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:53 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:53 PM ServerThread run
+INFO:  Player Request To Move And Approved :  29
+Dec 07, 2017 8:00:53 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:53 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:53 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:00:54 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:00:54 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:54 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:54 PM ServerThread run
+INFO:  Player Request To Move And Approved :  2
+Dec 07, 2017 8:00:54 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:54 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:54 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:00:57 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:00:57 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:57 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:57 PM ServerThread run
+INFO:  Player Request To Move And Approved :  29
+Dec 07, 2017 8:00:57 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:57 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:57 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:00:58 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:00:58 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:58 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:58 PM ServerThread run
+INFO:  Player Request To Move And Approved :  2
+Dec 07, 2017 8:00:58 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:58 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:58 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:00:59 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:00:59 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:59 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:59 PM ServerThread run
+INFO:  Player Request To Move And Approved :  29
+Dec 07, 2017 8:00:59 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:59 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:59 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:00:59 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:00:59 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:59 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:59 PM ServerThread run
+INFO:  Player Request To Move And Approved :  2
+Dec 07, 2017 8:00:59 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:00:59 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:00:59 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:01:03 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:01:03 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:03 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:03 PM ServerThread run
+INFO:  Player Request To Move And Approved :  29
+Dec 07, 2017 8:01:03 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:03 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:03 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:01:03 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:01:03 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:03 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:03 PM ServerThread run
+INFO:  Player Request To Move And Approved :  2
+Dec 07, 2017 8:01:03 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:03 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:03 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:01:04 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:01:04 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:04 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:04 PM ServerThread run
+INFO:  Player Request To Move And Approved :  29
+Dec 07, 2017 8:01:04 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:04 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:04 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:01:04 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:01:04 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:04 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:04 PM ServerThread run
+INFO:  Player Request To Move And Approved :  2
+Dec 07, 2017 8:01:04 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:04 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:04 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:01:08 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:01:08 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:08 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:08 PM ServerThread run
+INFO:  Player Request To Move And Approved :  29
+Dec 07, 2017 8:01:08 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:08 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:08 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:01:08 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:08 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:08 PM ServerThread run
+INFO:  Player Request To Move And Approved :  2
+Dec 07, 2017 8:01:08 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:08 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:08 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:01:10 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:01:10 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:10 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:10 PM Server isPlayerTurnAndChangePlayer
+INFO: player requested to play but could not
+Dec 07, 2017 8:01:10 PM ServerThread run
+INFO: Player Tried To Play But Not His Turn : 2
+Dec 07, 2017 8:01:13 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:01:13 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:01:13 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:13 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:13 PM ServerThread run
+INFO:  Player Request To Move And Approved :  29
+Dec 07, 2017 8:01:13 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:13 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:13 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:01:13 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:01:13 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:13 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:13 PM Server isPlayerTurnAndChangePlayer
+INFO: player requested to play but could not
+Dec 07, 2017 8:01:13 PM ServerThread run
+INFO: Player Tried To Play But Not His Turn : 29
+Dec 07, 2017 8:01:14 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:01:14 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:14 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:14 PM ServerThread run
+INFO:  Player Request To Move And Approved :  2
+Dec 07, 2017 8:01:14 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:14 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:14 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:01:14 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:01:14 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:14 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:14 PM ServerThread run
+INFO:  Player Request To Move And Approved :  29
+Dec 07, 2017 8:01:14 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:14 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:14 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:01:15 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:01:15 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:15 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:15 PM ServerThread run
+INFO:  Player Request To Move And Approved :  2
+Dec 07, 2017 8:01:15 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:15 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:15 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:01:18 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:01:18 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:18 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:18 PM ServerThread run
+INFO:  Player Request To Move And Approved :  29
+Dec 07, 2017 8:01:18 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:18 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:18 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:01:19 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:01:19 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:19 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:19 PM ServerThread run
+INFO:  Player Request To Move And Approved :  2
+Dec 07, 2017 8:01:19 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:19 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:19 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:01:19 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:01:19 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:19 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:19 PM ServerThread run
+INFO:  Player Request To Move And Approved :  29
+Dec 07, 2017 8:01:19 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:19 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:19 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:01:20 PM ServerThread run
+INFO: Message Received From Client And Deligated To Server
+Dec 07, 2017 8:01:20 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:20 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:20 PM ServerThread run
+INFO:  Player Request To Move And Approved :  2
+Dec 07, 2017 8:01:20 PM Server updateBoard
+INFO: Board Is Being Updated
+Dec 07, 2017 8:01:20 PM Server updateBoard
+INFO: Server sent new Map to Players
+Dec 07, 2017 8:01:20 PM ServerThread run
+INFO: ServerThread Sent New Player Position
+Dec 07, 2017 8:01:22 PM ServerThread run
+INFO: ServerThread Exception
+Dec 07, 2017 8:01:24 PM ServerThread run
+INFO: ServerThread Exception
